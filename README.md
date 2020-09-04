@@ -6,7 +6,7 @@ Lawrence Livermore National Laboratory
 - Full-stack software development of a queryable COVID-19 database and web interface for molecular dynamics data, in partnership with the American Heart Association. This database includes calculations for millions of compounds (antibodies, small molecules) tested against the COVID-19 spike proteins. [Check it out!](https://covid19drugscreen.llnl.gov/)
 - Data visualization and exploration of gene expression data for cancer cell lines
 - Development of database for investigating genetic sequences of interest in order to characterize microbial threats.
--Development of a machine learning algorithm designed to create predictive pre-clinical treatment models for precision oncology. 
+- Development of a machine learning algorithm designed to create predictive pre-clinical treatment models for precision oncology. 
 
 Independent Research
 -  Open source software development of [pyRECONSTRUCT](https://github.com/MashaAseeva/pyrecon), a software add-on to the RECONSTRUCT software available at SynapseWeb. Work to alleviate duplicate contours on a Cartesian plane. This includes an interactive GUI via PyQt, with data stored in-memory on a SQL server. 
