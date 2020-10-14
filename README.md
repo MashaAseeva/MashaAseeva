@@ -23,6 +23,7 @@ Independent Research
 - New front-end technologies and frameworks 
 - Neuroinformatics
 - Natural language processing 
+- Ethical product design
 
 <!--
 **MashaAseeva/MashaAseeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
