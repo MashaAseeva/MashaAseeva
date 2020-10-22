@@ -12,6 +12,7 @@ Independent Research
 -  Open source software development of [pyRECONSTRUCT](https://github.com/MashaAseeva/pyrecon), a software add-on to the RECONSTRUCT software available at SynapseWeb. Work to alleviate duplicate contours on a Cartesian plane. This includes an interactive GUI via PyQt, with data stored in-memory on a SQL server. 
 
 #### 🌱 I’m currently interested in ...
+- Biology, always
 - Making tech an inclusive place for everybody
 - Bringing the teachings of STEM to young girls and minorities through Girls Who Code and other mentoring avenues
 - Building my network
