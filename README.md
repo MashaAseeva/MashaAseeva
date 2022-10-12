@@ -36,8 +36,15 @@ Lawrence Livermore National Laboratory
 Independent Research
 -  Open source software development of [pyRECONSTRUCT](https://github.com/MashaAseeva/pyrecon), a software add-on to the RECONSTRUCT software available at SynapseWeb. Work to alleviate duplicate contours on a Cartesian plane. This includes an interactive GUI via PyQt, with data stored in-memory on a SQL server. 
 
-
-
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/HTML5%20-282C34.svg?&style=flat-square&logo=html5&logoColor=red"/>
+ <img src="https://img.shields.io/badge/CSS3%20-282C34.svg?&style=flat-square&logo=css3&logoColor=blue"/>
+ <img src="https://img.shields.io/badge/MySQL%20-1C1E24.svg?style=flat-square&logo=mysql&logoColor=white"/>
+ <img src="https://img.shields.io/badge/React-282C34.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>
+ <img src="https://img.shields.io/badge/Git%20-%23323330.svg?&style=flat-square&logo=git&logoColor=red"/>
+ <img src="https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white"/>
+ </p>
 <!--
 **MashaAseeva/MashaAseeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
