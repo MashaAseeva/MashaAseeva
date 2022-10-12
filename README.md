@@ -1,7 +1,32 @@
 ### Masha Aseeva 👋
-#### Hi, I'm Masha (she/her) - a genomics software engineer currently at Myriad Genetics. I'm passionate about the intersection of biology and computer science, as well as making that space inclusive to all sorts of people. I'm based in the East Bay Area in California and enjoy reading, writing, concerts, and bouldering (pre-COVID.) 
+#### Hi, I'm Masha (she/her) - a genomics software engineer currently at Myriad Genetics. I'm passionate about the intersection of biology and computer science, as well as making that space inclusive to all sorts of people. I'm based in the East Bay Area in California and enjoy reading, writing, concerts, traveling, and making art.  
+
+<p align="center">
+<a href="https://www.linkedin.com/in/masha-aseeva/"><img src="https://img.shields.io/badge/LinkedIn-Masha%20Aseeva-blue"></img></a>
+</p>
+
+#### 🌱 I’m currently interested in ...
+- Biology, always
+- Medical diagnostics, particularly in reproductive health
+- Making tech an inclusive place for everybody
+- Bringing the teachings of STEM to young girls and minorities through Girls Who Code and other mentoring avenues
+- Building my network
+- Learning about the history of tech and how became the way it is today
+
+#### 🤔 Technical spaces I'm curious about ...
+- New front-end technologies and frameworks 
+- UI/UX  
+- Database design
+- Ethical product design
 
 #### 🔭  I’ve previously worked on ...
+Myriad Genetics
+- Full-stack software development on prenatal products, including non-invasive prenatal screen and carrier screening. 
+- Development of pipeline that allows for large-scale genomic copy number variations to be reported on prenatal screen, establishing Myriad as a leader in the prenatal market
+- Creation of chromosome ideogram generator library in Python using SVGWrite, Poetry and Github Actions
+- Development of an internal technical mentorship program in the Myriad Tech Organization
+- Revamping of Myriad's technical interview process to reduce bias and improve streamlining
+
 Lawrence Livermore National Laboratory
 - Full-stack software development of a queryable COVID-19 database and web interface for molecular dynamics data, in partnership with the American Heart Association. This database includes calculations for millions of compounds (antibodies, small molecules) tested against the COVID-19 spike proteins. [Check it out!](https://covid19drugscreen.llnl.gov/)
 - Data visualization and exploration of gene expression data for cancer cell lines
@@ -11,20 +36,7 @@ Lawrence Livermore National Laboratory
 Independent Research
 -  Open source software development of [pyRECONSTRUCT](https://github.com/MashaAseeva/pyrecon), a software add-on to the RECONSTRUCT software available at SynapseWeb. Work to alleviate duplicate contours on a Cartesian plane. This includes an interactive GUI via PyQt, with data stored in-memory on a SQL server. 
 
-#### 🌱 I’m currently interested in ...
-- Biology, always
-- Making tech an inclusive place for everybody
-- Bringing the teachings of STEM to young girls and minorities through Girls Who Code and other mentoring avenues
-- Building my network
-- Learning about the history of tech and how became the way it is today
 
-#### 🤔 Technical spaces I'm curious about ...
-- UI/UX  
-- Database schema design
-- New front-end technologies and frameworks 
-- Neuroinformatics
-- Natural language processing 
-- Ethical product design
 
 <!--
 **MashaAseeva/MashaAseeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
